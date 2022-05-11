@@ -1,4 +1,12 @@
 <div>
+    <h1>
+        My name is Gustavo Balero, and... I'm the DEV
+        <img src="https://user-images.githubusercontent.com/54085403/167847519-8449b11e-eda5-48d7-af56-214f345ffc98.png" height="40px"/>
+        <img src="https://user-images.githubusercontent.com/54085403/167846677-5e8fd4c6-6537-4238-b4f7-e5c68621964e.png" height="40px"/>
+    </h1>
+</div>
+
+<div>
     <img src="https://github-readme-stats.vercel.app/api?username=gubalero&show_icons=true&theme=tokyonight&count_private=true&hide=stars&locale=pt-br&include_all_commits=true&border_color=3cbdb0" width="57%"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gubalero&layout=compact&show_icons=true&theme=tokyonight&count_private=true&hide=stars&locale=pt-br&include_all_commits=true&langs_count=10&border_color=3cbdb0" width="41.5%"/>
 </div>
